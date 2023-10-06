@@ -1,0 +1,40 @@
+body {
+    background-image: url(image/papel-vintage.jpg);
+    display: block;
+}
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+#brownies{
+    height: auto;
+    width: 90%;
+}
+.portada{
+    border: 1px solid gray;
+    text-align: center;
+    margin: 5% 25% 3% 25%;
+    padding: 10px 10px 10px 10px;
+    background-color: rgba(66, 66, 63, 0.438);
+    box-shadow: 10px 5px 5px rgb(82, 80, 80);
+}
+h1 {
+    font-size: 35px;
+}
+h3{
+    padding-left: 40px;
+ }
+ .parrafos{
+    padding-left: 40px;
+ }
+ .ingredientes{
+    margin: 0% 35% 0% 35%;
+ }
+ #porcion{
+    padding-left: 40px;
+ }
+ .preparación{
+    margin: 0% 2% 0% 2%;
+ }
+ .presentación{
+    margin: 0% 2% 5% 2%;
+ }

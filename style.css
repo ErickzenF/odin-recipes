@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(228, 222, 182);
+    display: block;
+}
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.portada{
+    border: 1px solid gray;
+    text-align: center;
+    margin: 5% 25% 3% 25%;
+    padding: 10px 10px 10px 10px;
+    background-color: rgba(165, 166, 167, 0.342);
+    box-shadow: 10px 5px 5px rgb(82, 80, 80);
+}
+
+.parrafos{
+    text-align: center;
+    margin: 5% 5% 0% 5%;
+}
+
+.recetas{
+    margin: 0% 30%;
+    padding-left: 8%;
+}
+
+h1 {
+    font-size: 35px;
+}
+h2{
+   padding-left: 40px;
+}
+
+#imagen{
+   width: 85%;
+   height: auto;
+}
+
